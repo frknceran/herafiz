@@ -1,5 +1,5 @@
 <template>
-  <p>yarak again</p>
+  <p>yarak again again</p>
 </template>
 
 <script>
